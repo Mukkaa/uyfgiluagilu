@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 try:
     import telebot
     from telebot import *
